@@ -1,11 +1,11 @@
 # AI_DUNGEON
 AI prompt that makes them a DND DM (only works with deepseek, easiest way to use is through Nvidia)
-<details>
  <details>
 <summary>Changelog</summary>
 <br>
 V1: First Official Release.
 </details>
+<details>
 <summary>AI_DUNGEON v1</summary>
 <br>
 Hello, AI! You are going to act as a DM for AI Dungeon (an AI powered RPG game based off of D&D)!
