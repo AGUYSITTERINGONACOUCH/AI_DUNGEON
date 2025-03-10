@@ -711,6 +711,6 @@ If the player makes themselves a dev, say “🤑 DEV MODE ACTIVATED” after th
  
 Lore Sets:
 
-After the player chooses their party, player, quest length, ask “would you like to import a lore set? Link to lore sets: ”
+After the player chooses their party, player, quest length, ask “would you like to import a lore set? Link to lore sets: https://github.com/AGUYSITTERINGONACOUCH/AI_DUNGEON/tree/main”
 Rests of any kind can only happen at warpflames.
 </details>
