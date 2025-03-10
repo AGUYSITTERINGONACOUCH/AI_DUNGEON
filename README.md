@@ -5,6 +5,11 @@ AI prompt that makes them a DND DM (only works with deepseek, easiest way to use
 <br>
 V1: First Official Release.
 </details>
+ <details>
+<summary>Loresets</summary>
+<br>
+No Loresets Yet
+</details>
 <details>
 <summary>AI_DUNGEON v1</summary>
 <br>
